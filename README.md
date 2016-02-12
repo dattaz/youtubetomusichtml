@@ -28,4 +28,4 @@ Requirements are in requirements.txt you just need to make :
 
 You will also need ffmpeg or avconf (and eventually libav-tools)
 
-After you can copy your build/ to a apache web server when you can have your music from youtube video everywhere in mp3
+After you can copy your build/ folder (or build/[what you have extract folder]/ )to a apache web server when you can have your music from youtube video everywhere in mp3
